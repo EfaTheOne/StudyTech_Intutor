@@ -1,0 +1,12 @@
+# Interview AI – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Required
+openai>=1.0.0
+
+# Optional – text-to-speech (interviewer speaks aloud)
+pyttsx3>=2.90
+
+# Optional – voice input (speak your answers)
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
